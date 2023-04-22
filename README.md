@@ -1,2 +1,3 @@
 # justgrowbig
-media website
+A media website.
+Just my first projects.
